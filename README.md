@@ -15,12 +15,19 @@ Un poco de mi historia.✨
 💻Las Tech Skills que poseo son:
  
 🚀Javascript
+
 🚀HTML / CSS
+
 🚀React - Redux
+
 🚀PostgreSQL
+
 🚀Express
+
 🚀SQL
+
 🚀Node.js.
+
 🚀GIT
 
 Busco insertarme en el mercado laboral IT, con una empresa que me ayude a crecer profesionalmente y presente nuevos desafíos y oportunidades de aprendizaje
