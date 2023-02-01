@@ -33,5 +33,7 @@ Un poco de mi historia.✨
 Busco insertarme en el mercado laboral IT, con una empresa que me ayude a crecer profesionalmente y presente nuevos desafíos y oportunidades de aprendizaje
 
 ¿Queres saber mas de mi? ¡Contactame!
+
 WP: +54 3516222996
+
 Email: rocioolivaturturro@gmail.com
