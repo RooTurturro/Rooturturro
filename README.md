@@ -36,6 +36,8 @@ Busco insertarme en el mercado laboral IT, con una empresa que me ayude a crecer
 
 <h2>¿Queres saber mas de mi? ¡Contactame!</h2>
 
-WP: +54 3516222996
+Linkedin: https://www.linkedin.com/in/rocio-oliva-fullstack/
 
 Email: rocioolivaturturro@gmail.com
+
+
